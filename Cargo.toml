@@ -1,0 +1,16 @@
+[package]
+name = "lib_did"
+version = "0.1.0"
+description = "sm2 lib"
+keywords = ["sm2", "mnemonic"]
+license = "Apache-2.0"
+homepage = "https://github.com/"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bip39 = "1.0.1"
+rand = "0.6.5"
+libsm = "0.4.1"
+hex = "0.4"
+num-bigint = "0.4.3"
