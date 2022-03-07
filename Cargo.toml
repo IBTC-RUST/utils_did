@@ -1,5 +1,5 @@
 [package]
-name = "lib_did"
+name = "utils_did"
 version = "0.1.0"
 description = "sm2 lib"
 keywords = ["sm2", "mnemonic"]
